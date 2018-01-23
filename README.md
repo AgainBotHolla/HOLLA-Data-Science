@@ -1,4 +1,4 @@
-# HOLLA_Data_Science
+# HOLLA-Data-Science
 
 Hi there!
 
